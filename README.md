@@ -55,7 +55,7 @@
 ### Heat Treatment of 3D printed part
 ![image](https://github.com/user-attachments/assets/8e5cac3e-3b20-47b7-9531-ac6bfd06df11)
 
-### Name: Vincy Joviha V
+### Name: Vincy Jovitha V
 ### Register Number: 212223230242
 
 ## Result: 
