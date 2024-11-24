@@ -1,62 +1,92 @@
-# Ex.No.6.2 - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
-
-### DATE: 4.11.2024
-
+<H1 ALIGN =CENTER>EX. NO. 6.2 - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
+<H3>NAME: VINCY JOVITHA V</H3>
+<H3>REGISTER NO.: 212223230242</H3>
+<H3>DATE:6.11.2024</H3>
+<br>
+  
 ## AIM: 
-  To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
+ To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
+<br>
+<br>
 
 ## REQUIREMENTS:
-  System - Windows 7 or higher, 1 GB RAM.
+ System - Windows 7 or higher, 1 GB RAM.
+<br>
+<br>
 
-# PROCEDURE
+## PROCEDURE:
 
-## Procedure for Support Removal
-1. Select **support removal** from the list.
-2. All the parts related to support removal are shown on the screen.
-3. Select the parts **in sequence** in which they are shown.
-4. When the first part is selected, it will open in the blank space on the **left side** of the screen.
-5. If the user follows an incorrect sequence, a **pop-up** will appear on the screen showing the name of the part to be selected.
+## Procedure for support removal
+ 1.	Select support removal from the list.
 
----
+ 2.	All the parts related to support removal are shown on the screen.
+
+ 3.	Select the parts in sequence in which they are shown.
+
+ 4.	When the first part is selected then it will open in the blank space in the left side of the screen.
+
+ 5.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
 
 ## Procedure for UV Curing
-1. Select **UV curing** from the list.
-2. All the parts related to UV curing are shown on the screen.
-3. Select the parts **in sequence** in which they are shown.
-4. When the first part is selected, it will open in the blank space on the **left side** of the screen.
-5. If the user follows an incorrect sequence, a **pop-up** will appear on the screen showing the name of the part to be selected.
+ 1.	Select UV curing from the list.
+
+ 2.	All the parts related to UV curing are shown on the screen.
+
+ 3.	Select the parts in sequence in which they are shown.
+
+ 4.	When the first part will be selected then it will open in the blank space on the left side of the screen.
+
+ 5.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
+<br>
 
 ## Procedure for heat treatment
-1.	Select heat treatment from the list.
-2.	All the parts related to heat treatment are shown on the screen.
-3.	Select the parts in sequence in which they are shown.
-4.	When the first part is selected then it will open in the blank space in the left side of the screen.
-5.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
+ 1.	Select heat treatment from the list.
+
+ 2.	All the parts related to heat treatment are shown on the screen.
+
+ 3.	Select the parts in sequence in which they are shown.
+
+ 4.	When the first part is selected then it will open in the blank space in the left side of the screen.
+
+ 5.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
+<br>
+<br>
 
 ## OUTPUT :
 
 ## Support Removal Process
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
+![Screenshot 2024-11-04 153651](https://github.com/user-attachments/assets/7720790b-b116-4413-8f93-82a03115a232)
+
+![Screenshot 2024-11-04 153657](https://github.com/user-attachments/assets/723040e8-a5a3-4a09-9ea7-37383fe6d62f)
 
 ## UV Curing of 3D printed part
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
+
+![Screenshot 2024-11-04 153705](https://github.com/user-attachments/assets/ea176a71-3952-4008-9b52-b140a5a4d8ca)
+
+![Screenshot 2024-11-04 153715](https://github.com/user-attachments/assets/f0643907-e007-48de-97b9-6105b66c4055)
+
 
 ## Heat Treatment of 3D printed part
-![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
-![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
+![Screenshot 2024-11-04 153722](https://github.com/user-attachments/assets/59b272e0-75d7-4f9e-99dd-9f7b613d42c7)
+
+
+![Screenshot 2024-11-04 153727](https://github.com/user-attachments/assets/2a67aabe-c7e5-4569-a90f-ff75ed57925f)
+<br>
+<br>
+<br>
 
 ## Output:
-### Support Removal Process
-![image](https://github.com/user-attachments/assets/659f5f58-d730-422d-852a-750d75d23d2d)
-### UV Curing of 3D printed part
-![image](https://github.com/user-attachments/assets/7ba47f4f-ff39-4672-ac36-0234428c7f4f)
-### Heat Treatment of 3D printed part
-![image](https://github.com/user-attachments/assets/8e5cac3e-3b20-47b7-9531-ac6bfd06df11)
 
-### Name: Vincy Jovitha V
-### Register Number: 212223230242
+## Support Removal Process
+![Screenshot 2024-10-16 233053](https://github.com/user-attachments/assets/f0245de4-ea95-4d9d-a8f4-d6a78c6f8bff)
+
+## UV Curing of 3D printed part
+![Screenshot 2024-10-16 233109](https://github.com/user-attachments/assets/3d049812-adc3-4de8-8f51-08d4616fa28c)
+
+## Heat Treatment of 3D printed part
+![Screenshot 2024-10-16 233128](https://github.com/user-attachments/assets/26a71855-fe45-4703-be18-758e58f579f5)
+<br>
+<br>
 
 ## Result: 
-  Thus the simulation on the Postprocessing in additive manufacturing is completed.
+ Thus the simulation on the Postprocessing in additive manufacturing is completed.
